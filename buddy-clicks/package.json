@@ -1,0 +1,8 @@
+{
+  "name": "buddy-clicks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Buddy Clicks responsive T-shirt ecommerce starter",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" }
+}
